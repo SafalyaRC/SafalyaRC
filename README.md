@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NovaSuite AI<br>👯 I’m looking to collaborate on SaaS products<br>🌱 I’m currently learning to scale products<br>💬 Ask me about Full Stack Development and API Architecture
-
+I'm a final-year CS undergrad specializing in full-stack development, skilled in building scalable, production-grade applications with a strong focus on AI integration, RESTful API design, authentication & authorization, schema modeling, and query optimization. With a solid foundation in data structures and algorithms, and a passion for problem-solving, I strive to engineer efficient, secure, and maintainable systems that deliver real-world impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safalyarc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/safaintreal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safalyaroy9463@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/safaintreal)
